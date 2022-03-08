@@ -1,7 +1,7 @@
 ## 👋
 
-<img  width="150" height="230" align="left" src="img/moumoune_pc.png">
-<img  width="150" height="230" align="right" src="img/moumoune.jpg">
+<img  width="150" height="245" align="left" src="img/moumoune_pc.png">
+<img  width="150" align="right" src="img/moumoune.jpg">
 
 <br>
 <p>
