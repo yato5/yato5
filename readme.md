@@ -1,29 +1,27 @@
-## 👋 
+## 👋
 
-<img  width="150" align="left" src="img/moumoune_pc.png">
-<img  width="150" align="right" src="img/moumoune.jpg">
+<img  width="150" height="230" align="left" src="img/moumoune_pc.png">
+<img  width="150" height="230" align="right" src="img/moumoune.jpg">
 
-
+<br>
 <p>
-  - Hi, I’m Yanis
+  - ✔ Hi, I’m Yanis
 </p>
 <p>
-  - 🌱 I’m currently learning everything
+  - 🌱 I’m currently learning everything I can
  </p>
+
  <p>
-   -  I’m interested in programming, animes / mangas and Olympique Lyonnais
- </p>
- <p>
-   - ⚡ Fun fact: I love my cat
+   - 💭 I'd like to make more personnal project in 2022
  </p>  
   <p>
-   -  I’m interested in programming, animes / mangas and Olympique Lyonnais
+   - 🎃 I’m interested in programming, anime / manga and Olympique Lyonnais
  </p>
  <p>
-   - ⚡ Fun fact: I love my cat
+   - 🐱‍👤 Fun fact, I love my cat
  </p>  
  
-<br><br>
+<br>
 
 ## ⚡ Stats
 <br>
@@ -34,28 +32,28 @@
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
-## Languages and Tools :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<br>
-<br>
+## 💻 Languages and Tools
 
-<br>
-<br>
+<br><br>
 
-<p align="center">
-  
+<p align="center">  
+  <img alt="Java" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="C" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+  <img alt="php" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="bash" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="60px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+  <img alt="VSCode" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
+<br><br>
+
+<p align="center">  
   <img src="https://i.pinimg.com/originals/65/e7/84/65e7847ac0d32b11a73b2b3907edbee2.gif" width="800" height="224" />
 </p>
