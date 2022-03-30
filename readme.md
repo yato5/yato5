@@ -28,7 +28,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yato5&show_icons=true&theme=radical"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yato5&hide=javascript,html"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yato5&hide=html,javascript,css"/>
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
