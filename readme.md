@@ -18,7 +18,7 @@
    - 🎃 I’m interested in programming, anime / manga and Olympique Lyonnais
  </p>
  <p>
-   - 🐱‍👤 Fun fact, I love my cat
+   - 🐱 Fun fact, I love my cat
  </p>  
  
 <br><br>
